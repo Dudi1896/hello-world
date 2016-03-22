@@ -1,3 +1,7 @@
 # hello-world
-Code for  an Omni-Vectoring Rover
-I like tacos too!
+//*****************************************************HEADER***************************************************************************
+/*
+  Code For Omi- Vectoring Robot
+  Authors: Pier Balinda
+           Isaac Oluwasakin
+           Denzel Udemba
